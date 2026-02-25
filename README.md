@@ -9,3 +9,4 @@ This repository contains a collection of Python-based quantitative finance proje
 ### Tech Stack:
 * **Languages:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, yfinance (for market data)
+* ![Strategy Results](output.png)
